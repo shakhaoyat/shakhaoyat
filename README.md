@@ -48,20 +48,34 @@ I am a CSE undergraduate at Varendra University (CGPA: 3.31/4.00) and a full-sta
 - Improving REST API design and PostgreSQL query optimization for production use.
 - Practicing clean UI implementation with Tailwind CSS and DaisyUI.
 
-## Skills
+## Tech Stack
+
+### Frontend
 
 <p align="left">
-	<img src="https://skillicons.dev/icons?i=python,django,js,ts,react,nextjs,html,css,tailwind,bootstrap,flask,postgres,mysql,git,github,postman,vscode,java,cpp,arduino,ps" alt="Skills" />
+	<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Frontend stack" />
 </p>
 
-## Core Competencies
+### Backend and APIs
 
-- Full-Stack Web Development
-- REST API Design and Integration
-- Authentication and Role-Based Access Control
-- Responsive UI Engineering
-- Database Design and Query Optimization
-- Collaborative Development with Git and GitHub
+<p align="left">
+	<img src="https://skillicons.dev/icons?i=python,django,flask" alt="Backend stack" />
+</p>
+
+### Database and Tools
+
+<p align="left">
+	<img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,postman,vscode" alt="Database and tools" />
+</p>
+
+### Additional Skills
+
+<p align="left">
+	<img src="https://skillicons.dev/icons?i=java,cpp,arduino,ps" alt="Additional skills" />
+</p>
+
+- Specialization: Full-Stack Web Development, REST API Design, Authentication and Role-Based Access Control.
+- Strengths: Responsive UI Engineering, Database Optimization, and Collaborative Development with GitHub workflows.
 
 ## Social Links
 
@@ -77,30 +91,13 @@ I am a CSE undergraduate at Varendra University (CGPA: 3.31/4.00) and a full-sta
 ## GitHub Stats
 
 <p align="center">
-	<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shakhaoyat&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
+	<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shakhaoyat&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
 	<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shakhaoyat&theme=default&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-	<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakhaoyat&layout=compact&hide_border=true" alt="Top languages" />
+	<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shakhaoyat&layout=compact&hide_border=true" alt="Top languages" />
 </p>
-
-## Pinned Repositories (At Least 3)
-
-### 1) Job Application Tracker
-
-- Description: Interactive job tracking dashboard with real-time counters and status-based filtering for application pipeline management. Live: https://shakhaoyat.github.io/Job-Application-Tracker/ | Stack: HTML5, CSS3, JavaScript, DaisyUI, Tailwind CSS
-- Repository: https://github.com/shakhaoyat/Job-Application-Tracker
-
-### 2) Payoo Mobile Banking App
-
-- Description: Mobile-first banking simulation platform featuring PIN authentication, transaction operations, and dynamic balance updates. Live: https://shakhaoyat.github.io/payoo/ | Stack: HTML5, CSS3, JavaScript, DaisyUI, Tailwind CSS
-- Repository: https://github.com/shakhaoyat/payoo
-
-### 3) Event Management Web App
-
-- Description: Full-stack Django system with role-based workflows, REST APIs, SMTP notifications, and PostgreSQL-backed data management. Live: https://event-web-backend-1.onrender.com | Stack: Django, JavaScript, REST APIs, PostgreSQL
-- Repository: https://github.com/shakhaoyat/event-management-web-app
 
 ## Education
 
