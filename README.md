@@ -1,27 +1,122 @@
-<h1 align="center">Hi 👋, I'm Shakhaoyat Hossain Chad</h1>
-<h3 align="center">CSE student at Varendra University, learning web development. Skilled in Python, Django, JavaScript, HTML, and CSS. Passionate about creating modern, responsive web applications.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shakhaoyat&label=Profile%20views&color=0e75b6&style=flat" alt="shakhaoyat" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakhaoyat" alt="shakhaoyat" /></a> </p>
-
-- 🔭 I’m currently working on **Event Management Web App**
-
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/shakhaoyat/home](https://sites.google.com/view/shakhaoyat/home)
-
-- 📫 How to reach me **shakhaoyathossain.12@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shakhaoyat12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakhaoyat12" height="30" width="40" /></a>
-<a href="https://fb.com/shakhaoyat12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shakhaoyat12" height="30" width="40" /></a>
+<p align="center">
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Shakhaoyat%20Hossain%20Chad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Django%20%7C%20React%20%7C%20Next.js&descAlignY=58" alt="Shakhaoyat Hossain Chad banner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h1 align="center">Shakhaoyat Hossain Chad</h1>
+<h3 align="center">Full-Stack Developer | Django | React | Next.js | JavaScript</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakhaoyat&show_icons=true&locale=en&layout=compact" alt="shakhaoyat" /></p>
+<p align="center">
+	Focused on building scalable web applications, clean APIs, and modern user experiences.
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakhaoyat&show_icons=true&locale=en" alt="shakhaoyat" /></p>
+<p align="center">
+	<img src="https://komarev.com/ghpvc/?username=shakhaoyat&label=Profile%20views&color=1f6feb&style=flat" alt="Profile views" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakhaoyat&" alt="shakhaoyat" /></p>
+<p align="center">
+	<a href="https://github.com/shakhaoyat">
+		<img src="https://img.shields.io/badge/GitHub-shakhaoyat-181717?style=for-the-badge&logo=github" alt="GitHub" />
+	</a>
+	<a href="https://linkedin.com/in/shakhaoyat12">
+		<img src="https://img.shields.io/badge/LinkedIn-shakhaoyat12-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+	</a>
+	<a href="mailto:shakhaoyathossain.12@gmail.com">
+		<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+	</a>
+</p>
+
+## Profile Picture
+
+Use a clear, front-facing headshot with smart-casual dress (solid shirt or polo, simple background, natural light) to keep the profile professional and approachable.
+
+## Location and Email Address
+
+- Name: Shakhaoyat Hossain Chad
+- Designation: Full-Stack Developer (Django, React, Next.js, JavaScript)
+- Location: Address No. 42/2, Nowdapara, Ward 17, Rajshahi City Corporation, Rajshahi, Bangladesh
+- Email: shakhaoyathossain.12@gmail.com
+- Portfolio: https://shakhaoyat.github.io/Personal_Portfolio/
+
+## About Me
+
+I am a CSE undergraduate at Varendra University (CGPA: 3.31/4.00) and a full-stack developer with practical experience in Django, React, Next.js, and JavaScript. I build production-oriented web solutions with a strong focus on performance, maintainability, and user experience.
+
+### Current Activities
+
+- Building React and Next.js projects to strengthen modern frontend architecture.
+- Developing an Event Management Web App with role-based access and email automation.
+- Improving REST API design and PostgreSQL query optimization for production use.
+- Practicing clean UI implementation with Tailwind CSS and DaisyUI.
+
+## Skills
+
+<p align="left">
+	<img src="https://skillicons.dev/icons?i=python,django,js,ts,react,nextjs,html,css,tailwind,bootstrap,flask,postgres,mysql,git,github,postman,vscode,java,cpp,arduino,ps" alt="Skills" />
+</p>
+
+## Core Competencies
+
+- Full-Stack Web Development
+- REST API Design and Integration
+- Authentication and Role-Based Access Control
+- Responsive UI Engineering
+- Database Design and Query Optimization
+- Collaborative Development with Git and GitHub
+
+## Social Links
+
+<p align="left">
+	<a href="https://linkedin.com/in/shakhaoyat12" target="_blank" rel="noreferrer">
+		<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+	</a>
+	<a href="https://www.facebook.com/shakhaoyat12/" target="_blank" rel="noreferrer">
+		<img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+	</a>
+</p>
+
+## GitHub Stats
+
+<p align="center">
+	<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shakhaoyat&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
+	<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shakhaoyat&theme=default&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+	<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakhaoyat&layout=compact&hide_border=true" alt="Top languages" />
+</p>
+
+## Pinned Repositories (At Least 3)
+
+### 1) Job Application Tracker
+
+- Description: Interactive job tracking dashboard with real-time counters and status-based filtering for application pipeline management. Live: https://shakhaoyat.github.io/Job-Application-Tracker/ | Stack: HTML5, CSS3, JavaScript, DaisyUI, Tailwind CSS
+- Repository: https://github.com/shakhaoyat/Job-Application-Tracker
+
+### 2) Payoo Mobile Banking App
+
+- Description: Mobile-first banking simulation platform featuring PIN authentication, transaction operations, and dynamic balance updates. Live: https://shakhaoyat.github.io/payoo/ | Stack: HTML5, CSS3, JavaScript, DaisyUI, Tailwind CSS
+- Repository: https://github.com/shakhaoyat/payoo
+
+### 3) Event Management Web App
+
+- Description: Full-stack Django system with role-based workflows, REST APIs, SMTP notifications, and PostgreSQL-backed data management. Live: https://event-web-backend-1.onrender.com | Stack: Django, JavaScript, REST APIs, PostgreSQL
+- Repository: https://github.com/shakhaoyat/event-management-web-app
+
+## Education
+
+- Varendra University (2026): BSc in Computer Science and Engineering, CGPA 3.31/4.00
+- Shahid A.H.M. Kamaruzzaman Govt. Degree College (2020): HSC, GPA 4.58/5.00
+- Rajshahi Shikkha Board Govt. Model School and College (2018): SSC, GPA 4.73/5.00
+
+## Certifications
+
+- Machine Learning Training - RUET IoT CLUB (Oct 2025)
+- UI/UX Design - Business Automation Ltd (Sep 2025)
+- Web Development (HTML, CSS, JS) - IBM (May 2025)
+- AI for Beginners - HP (Feb 2025)
+- Regular Expressions in Python - Coursera (Sep 2024)
+- Python and Django Framework - Udemy (Feb 2024)
+
+## Professional Goal
+
+I am seeking opportunities to contribute as a software developer where I can deliver reliable, user-focused applications and continue growing in full-stack engineering.
