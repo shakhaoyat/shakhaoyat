@@ -25,10 +25,6 @@
 	</a>
 </p>
 
-## Profile Picture
-
-Use a clear, front-facing headshot with smart-casual dress (solid shirt or polo, simple background, natural light) to keep the profile professional and approachable.
-
 ## Location and Email Address
 
 - Name: Shakhaoyat Hossain Chad
