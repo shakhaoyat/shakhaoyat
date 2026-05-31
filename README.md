@@ -1,6 +1,5 @@
-<p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Shakhaoyat%20Hossain%20Chad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Django%20%7C%20React%20%7C%20Next.js&descAlignY=58" alt="Shakhaoyat Hossain Chad banner" />
-</p>
+![Banner](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
+
 
 <h1 align="center">Shakhaoyat Hossain Chad</h1>
 <h3 align="center">Full-Stack Developer | Django | React | Next.js | JavaScript</h3>
@@ -25,15 +24,9 @@
 	</a>
 </p>
 
-## Location and Email Address
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-- Name: Shakhaoyat Hossain Chad
-- Designation: Full-Stack Developer (Django, React, Next.js, JavaScript)
-- Location: Address No. 42/2, Nowdapara, Ward 17, Rajshahi City Corporation, Rajshahi, Bangladesh
-- Email: shakhaoyathossain.12@gmail.com
-- Portfolio: https://shakhaoyat.github.io/Personal_Portfolio/
-
-## About Me
+### About Me
 
 I am a CSE undergraduate at Varendra University (CGPA: 3.31/4.00) and a full-stack developer with practical experience in Django, React, Next.js, and JavaScript. I build production-oriented web solutions with a strong focus on performance, maintainability, and user experience.
 
