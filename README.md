@@ -48,13 +48,13 @@ I am a CSE undergraduate at Varendra University (CGPA: 3.31/4.00) and a full-sta
 ### Backend and APIs
 
 <p align="left">
-	<img src="https://skillicons.dev/icons?i=python,django,flask" alt="Backend stack" />
+	<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask" alt="Backend stack" />
 </p>
 
 ### Database and Tools
 
 <p align="left">
-	<img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,postman,vscode" alt="Database and tools" />
+	<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,github,postman,vscode" alt="Database and tools" />
 </p>
 
 ### Additional Skills
