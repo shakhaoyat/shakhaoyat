@@ -1,108 +1,99 @@
 ![Banner](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
+<div align="center">
 
+# Shakhaoyat Hossain Chad
 
-<h1 align="center">Shakhaoyat Hossain Chad</h1>
-<h3 align="center">Full-Stack Developer | Django | React | Next.js | JavaScript</h3>
+**Full-Stack Developer · Python · React · Next.js · JavaScript**
 
-<p align="center">
-	Focused on building scalable web applications, clean APIs, and modern user experiences.
-</p>
+Building scalable web applications with clean APIs and modern user experiences.
 
-<p align="center">
-	<img src="https://komarev.com/ghpvc/?username=shakhaoyat&label=Profile%20views&color=1f6feb&style=flat" alt="Profile views" />
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-shakhaoyat-181717?style=flat-square&logo=github)](https://github.com/shakhaoyat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shakhaoyat12-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/shakhaoyat12)
+[![Email](https://img.shields.io/badge/Email-shakhaoyathossain.12%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shakhaoyathossain.12@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=shakhaoyat&label=Profile%20Views&color=1f6feb&style=flat-square)](https://github.com/shakhaoyat)
 
-<p align="center">
-	<a href="https://github.com/shakhaoyat">
-		<img src="https://img.shields.io/badge/GitHub-shakhaoyat-181717?style=for-the-badge&logo=github" alt="GitHub" />
-	</a>
-	<a href="https://linkedin.com/in/shakhaoyat12">
-		<img src="https://img.shields.io/badge/LinkedIn-shakhaoyat12-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-	</a>
-	<a href="mailto:shakhaoyathossain.12@gmail.com">
-		<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-	</a>
-</p>
+</div>
 
+---
+
+## About
+
+I am a Computer Science and Engineering undergraduate at Varendra University (CGPA: 3.31/4.00) with hands-on experience building production-oriented web applications. My work spans full-stack development with Django, React, and Next.js — with a consistent focus on performance, maintainability, and clean architecture.
+
+---
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-### About Me
+## What I'm Working On
 
-I am a CSE undergraduate at Varendra University (CGPA: 3.31/4.00) and a full-stack developer with practical experience in Django, React, Next.js, and JavaScript. I build production-oriented web solutions with a strong focus on performance, maintainability, and user experience.
+- Architecting React and Next.js projects to deepen frontend system design skills
+- Developing an Event Management Web App featuring role-based access control and automated email workflows
+- Optimizing REST API design and PostgreSQL query performance for production environments
+- Sharpening UI implementation with Tailwind CSS and component-driven design
 
-### Current Activities
+---
 
-- Building React and Next.js projects to strengthen modern frontend architecture.
-- Developing an Event Management Web App with role-based access and email automation.
-- Improving REST API design and PostgreSQL query optimization for production use.
-- Practicing clean UI implementation with Tailwind CSS and DaisyUI.
-
-## Tech Stack
+## Technical Skills
 
 ### Frontend
+![HTML5](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap)
 
-<p align="left">
-	<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Frontend stack" />
-</p>
+### Backend & APIs
+![Backend](https://skillicons.dev/icons?i=nodejs,express,python,django,flask)
 
-### Backend and APIs
+### Databases & Tools
+![Tools](https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,github,postman,vscode)
 
-<p align="left">
-	<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask" alt="Backend stack" />
-</p>
+### Additional
+![Other](https://skillicons.dev/icons?i=java,cpp,arduino,ps)
 
-### Database and Tools
+**Core competencies:** Full-Stack Web Development · REST API Design · JWT Authentication · Role-Based Access Control · Responsive UI Engineering · Database Optimization · GitHub-based team workflows
 
-<p align="left">
-	<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,github,postman,vscode" alt="Database and tools" />
-</p>
+---
 
-### Additional Skills
+## GitHub Activity
 
-<p align="left">
-	<img src="https://skillicons.dev/icons?i=java,cpp,arduino,ps" alt="Additional skills" />
-</p>
+<div align="center">
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shakhaoyat&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shakhaoyat&theme=github-dark-blue&hide_border=true" />
+</div>
 
-- Specialization: Full-Stack Web Development, REST API Design, Authentication and Role-Based Access Control.
-- Strengths: Responsive UI Engineering, Database Optimization, and Collaborative Development with GitHub workflows.
+<div align="center">
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shakhaoyat&layout=compact&theme=github_dark&hide_border=true" />
+</div>
 
-## Social Links
-
-<p align="left">
-	<a href="https://linkedin.com/in/shakhaoyat12" target="_blank" rel="noreferrer">
-		<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-	</a>
-	<a href="https://www.facebook.com/shakhaoyat12/" target="_blank" rel="noreferrer">
-		<img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-	</a>
-</p>
-
-## GitHub Stats
-
-<p align="center">
-	<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shakhaoyat&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
-	<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shakhaoyat&theme=default&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-	<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shakhaoyat&layout=compact&hide_border=true" alt="Top languages" />
-</p>
+---
 
 ## Education
 
-- Varendra University (2026): BSc in Computer Science and Engineering, CGPA 3.31/4.00
-- Shahid A.H.M. Kamaruzzaman Govt. Degree College (2020): HSC, GPA 4.58/5.00
-- Rajshahi Shikkha Board Govt. Model School and College (2018): SSC, GPA 4.73/5.00
+| Degree | Institution | Year | Result |
+|--------|-------------|------|--------|
+| BSc in Computer Science & Engineering | Varendra University | 2026 | CGPA 3.31 / 4.00 |
+| Higher Secondary Certificate (HSC) | Shahid A.H.M. Kamaruzzaman Govt. Degree College | 2020 | GPA 4.58 / 5.00 |
+| Secondary School Certificate (SSC) | Rajshahi Shikkha Board Govt. Model School & College | 2018 | GPA 4.73 / 5.00 |
+
+---
 
 ## Certifications
 
-- Machine Learning Training - RUET IoT CLUB (Oct 2025)
-- UI/UX Design - Business Automation Ltd (Sep 2025)
-- Web Development (HTML, CSS, JS) - IBM (May 2025)
-- AI for Beginners - HP (Feb 2025)
-- Regular Expressions in Python - Coursera (Sep 2024)
-- Python and Django Framework - Udemy (Feb 2024)
+| Certification | Issuer | Date |
+|--------------|--------|------|
+| Machine Learning Training | RUET IoT Club | Oct 2025 |
+| UI/UX Design | Business Automation Ltd | Sep 2025 |
+| Web Development (HTML, CSS, JavaScript) | IBM | May 2025 |
+| AI for Beginners | HP | Feb 2025 |
+| Regular Expressions in Python | Coursera | Sep 2024 |
+| Python and Django Framework | Udemy | Feb 2024 |
+
+---
 
 ## Professional Goal
 
-I am seeking opportunities to contribute as a software developer where I can deliver reliable, user-focused applications and continue growing in full-stack engineering.
+I am actively seeking software development opportunities where I can contribute reliable, user-focused solutions and grow as a full-stack engineer. I bring a strong foundation in both frontend and backend development, a collaborative mindset, and the drive to deliver quality work in real-world environments.
+
+---
+
+<div align="center">
+
+*Open to full-time roles, internships, and freelance collaborations.*
+
+</div>
