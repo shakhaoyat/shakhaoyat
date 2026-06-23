@@ -3,7 +3,7 @@
 
 # Shakhaoyat Hossain Chad
 
-**Full-Stack Developer · Python · React · Next.js · JavaScript**
+**Full-Stack Developer · Python · React · Next.js · JavaScript · Nodejs · Express.js **
 
 Building scalable web applications with clean APIs and modern user experiences.
 
@@ -18,7 +18,7 @@ Building scalable web applications with clean APIs and modern user experiences.
 
 ## About
 
-I am a Computer Science and Engineering undergraduate at Varendra University (CGPA: 3.31/4.00) with hands-on experience building production-oriented web applications. My work spans full-stack development with Django, React, and Next.js — with a consistent focus on performance, maintainability, and clean architecture.
+I am a Computer Science and Engineering undergraduate at Varendra University (CGPA: 3.31/4.00) with hands-on experience building production-ready web applications. My work spans full-stack development using Django, React, Next.js, Node.js, and Express.js, with a strong focus on performance, maintainability, and clean architecture.
 
 ---
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
@@ -27,7 +27,7 @@ I am a Computer Science and Engineering undergraduate at Varendra University (CG
 
 - Architecting React and Next.js projects to deepen frontend system design skills
 - Developing an Event Management Web App featuring role-based access control and automated email workflows
-- Optimizing REST API design and PostgreSQL query performance for production environments
+- Optimizing REST API design, MongoDB and SQL query performance for production environments
 - Sharpening UI implementation with Tailwind CSS and component-driven design
 
 ---
