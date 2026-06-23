@@ -3,7 +3,7 @@
 
 # Shakhaoyat Hossain Chad
 
-**Full-Stack Developer · Python · React · Next.js · JavaScript · Nodejs · Express.js **
+**Full-Stack Developer · Python · React · Next.js · JavaScript · Node.js · Express.js**
 
 Building scalable web applications with clean APIs and modern user experiences.
 
