@@ -1,4 +1,4 @@
-![Banner](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
+![Banner](https://i.ibb.co.com/hxrM0y3Y/banner-1.png)
 <div align="center">
 
 # Shakhaoyat Hossain Chad
